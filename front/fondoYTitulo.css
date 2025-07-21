@@ -1,0 +1,34 @@
+.fondo{
+  background-image: url("https://wwwhatsnew.com/wp-content/uploads/2020/01/Los-mejores-sitios-web-para-aficionados-al-anime-1.jpg");
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  overflow: hidden;
+}
+
+
+
+.opacidad{
+  width: 100vw;
+  height: 65vw;
+  background-color: rgb(0, 0, 0, 0.5);
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: -200px;
+}
+
+
+.titulo{
+  font-size: 100px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(255, 255, 255, 1);
+  position: relative;
+  bottom: 1260px;
+}

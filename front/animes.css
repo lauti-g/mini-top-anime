@@ -1,0 +1,153 @@
+.animes1{
+  display: flex;
+  position: relative;
+  bottom: 585px;
+  width: 1000px;
+  height: 185px;
+  flex-wrap: wrap;
+}
+
+
+
+.madeInAbyss{
+  background-image: url("https://imgs.search.brave.com/43Fo5i003HLoOVVHWt7U9h48YZBzZQ7PH0XyGCLS9OQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLmdl/dHR5d2FsbHBhcGVy/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMTEvTWFk/ZS1pbi1BYnlzcy1X/YWxscGFwZXJzLmpw/Zw");
+  background-size: cover;
+  height: 92.5px;
+  object-fit: cover;
+  width: 125px;
+  position: relative;
+
+}
+
+
+.blackClover{
+  background-image: url("https://alfabetajuega.com/hero/2025/04/el-manga-de-black-clover-regresara-en-mayo-de-2025-con-dos-nuevos-capitulos.jpg?width=768&aspect_ratio=16:9&format=nowebp");
+  background-size: cover;
+  background-position: center;
+  height: 92.5px;
+  object-fit: cover;
+  width: 125px;
+  position: relative;
+  
+}
+
+
+
+.tokyoRevengers{
+  background-image: url("https://imgmedia.larepublica.pe/1200x630/larepublica/original/2022/10/28/635bfccc5d9f2443bd1c136a.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+.spyXFamily{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaU4cFzexrn_g2ubVaazyPMInugsExuqKN1A&s");
+  background-size: cover;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+.shingekiNoKyojin{
+  background-image: url("https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/02/16777543497942.jpg");
+  background-size: cover;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+
+.akameGaKill{
+  background-image: url("https://pm1.aminoapps.com/6253/13a821ae7b7320eb289c7dcb505ea9fa37894378_hq.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+
+.onePiece{
+  background-image: url("https://i.blogs.es/10f32e/319168/500_333.jpeg");
+  background-size: cover;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+
+
+
+.hunterXHunter{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm6hk73p4Oolbzkxr2vkMucsluWgWNEqOpw&s");
+  background-size: cover;
+  background-position: center;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+
+.anoHana{
+  background-image: url("https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c7e809c93d6b963876472980c6d73d7f.jpg");
+  background-size: cover;
+  height: 92.5px;
+  object-fit: cover;
+  width: 125px;
+  position: relative;
+}
+
+
+
+
+.neonGenesisEvangelion{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2ldp53CgmRwY75EsfSUvnnf-JKlCbRTTRA&s");
+  background-size: cover;
+  background-position: center;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+
+
+.elViajeDeChihiro{
+  background-image: url("https://media.vogue.es/photos/60a7c459e42ef3b89417b862/master/w_1600%2Cc_limit/IMP_00019673%2520(1).jpg");
+  background-size: cover;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
+
+
+
+
+.danDaDan{
+  background-image: url("https://tvazteca.brightspotcdn.com/dims4/default/044b874/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7f%2F7b%2F67f149804064860dfef7df33b4be%2Fdan-da-dan-segunda-temporada.jpg");
+  background-size: cover;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+  
+}
+
+
+
+
+.deathParade{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_Rvtow7INk0AlzaDlSGiy319t9ohf9SEeA&s");
+  background-size: cover;
+  background-position: center;
+  height: 92.5px;
+  width: 125px;
+  position: relative;
+}
